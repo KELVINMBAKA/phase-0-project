@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* THIS will be updated the more i learn these stuff */
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(picha/green\ .jpg); 
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: 30px;
+    color: rgb(184, 144, 27);
+    position: relative;
+}
+
+.content .par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
